@@ -1,6 +1,6 @@
 # pic-light-following-robot
-A simple rover bot cearching/following light sources while avoiding any object it may come accross.
--Microcontroller used: Pic-16F876a Clocked on 4Mhz -Peripherials: L293 Motor Driver, Photoresistor cricuits
+A simple rover bot searching/following light sources while avoiding any object it may come accross.
+-Microcontroller used: Pic-16F876a Clocked on 4Mhz -Peripherials: L293 Motor Driver, Photoresistor circuits
 
 -Code writen Assembly language.
 
